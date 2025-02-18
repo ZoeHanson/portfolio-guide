@@ -25,5 +25,10 @@ Welcome to my portfolio!
 ***
 
 # Other Projects
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🎨 [Mosaic Image Generator](https://github.com/ZoeHanson/Other-Projects/tree/main/Python-Mosaic) | Dec 2024 | Python, Image Processing, Color Matching | Developed a Python-based mosaic generator that reconstructs an image using a database of tiles. Implemented pixel-based color analysis and Euclidean distance matching to find the best tile replacements. Optimized for high-resolution output and web sharing. Future improvements include K-D tree acceleration and AI-based color matching. |
+
+
 
 ***
