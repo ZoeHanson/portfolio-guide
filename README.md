@@ -28,7 +28,7 @@ Welcome to my portfolio!
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🎨 [Mosaic Image Generator](https://github.com/ZoeHanson/Other-Projects/tree/main/Python-Mosaic) | Dec 2024 | Python, Image Processing, Color Matching | Developed a Python-based mosaic generator that reconstructs an image using a database of tiles. Implemented pixel-based color analysis and Euclidean distance matching to find the best tile replacements. Optimized for high-resolution output and web sharing. Future improvements include K-D tree acceleration and AI-based color matching. |
-
+| 🎵 [Spotify 2023 Analysis](https://github.com/ZoeHanson/Other-Projects/tree/main/Spotify-Analysis) | Jan 2024 | Python, Pandas, Data Visualization, EDA | Conducted an exploratory data analysis of Spotify’s most streamed songs in 2023. Analyzed artist rankings, danceability correlations, and cross-platform playlist popularity. Used regression models and data visualizations to uncover trends. Future improvements include predictive modeling and cross-platform streaming comparisons. |
 
 
 ***
