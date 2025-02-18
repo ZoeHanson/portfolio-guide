@@ -19,7 +19,7 @@ Welcome to my portfolio!
 # C++
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🗣️ [Hawaiian Words](https://github.com/ZoeHanson/Cpp/tree/main/Hawaiian-Words) | Sep 2024 | C++, String Manipulation, CLI, Character Processing | Built a tool to validate and phonetically transcribe Hawaiian words based on linguistic rules using C++. Implemented functions to identify valid characters, recognize vowel groupings, and generate accurate pronunciations. Designed a command-line interface for real-time word conversion, integrating robust error handling for invalid inputs. Explored optimization techniques for string processing and pronunciation accuracy, with potential improvements including dictionary-based verification and extended support for Hawaiian place names. |
+| 🗣️[Hawaiian Words](https://github.com/ZoeHanson/Cpp/tree/main/Hawaiian-Words) | Sep 2024 | C++, String Manipulation, CLI, Character Processing | Built a tool to validate and phonetically transcribe Hawaiian words based on linguistic rules using C++. Implemented functions to identify valid characters, recognize vowel groupings, and generate accurate pronunciations. Designed a command-line interface for real-time word conversion, integrating robust error handling for invalid inputs. Explored optimization techniques for string processing and pronunciation accuracy, with potential improvements including dictionary-based verification and extended support for Hawaiian place names. |
 
 ***
 
