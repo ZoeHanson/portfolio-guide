@@ -4,7 +4,7 @@ Welcome to my portfolio!
 
 ## 📖 Table of Contents
 - [Data Analysis](#Data-Analysis)
-- [C++](#C++)
+- [C++](#C)
 - [Other Projects](#other-projects)
 
 # Data Analysis
